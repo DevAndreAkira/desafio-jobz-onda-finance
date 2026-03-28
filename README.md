@@ -2,7 +2,7 @@
 
 App bancário simulado com pagamentos internacionais e cripto — desenvolvido como desafio técnico front-end.
 
-**[→ Acessar aplicação](https://desafio-onda-finance.vercel.app/login)**
+**[→ Acessar aplicação](https://desafio-jobz-onda-finance.vercel.app/login)**
 
 > Credenciais de acesso: `user@onda.com` / `123456`
 
@@ -36,7 +36,7 @@ App bancário simulado com pagamentos internacionais e cripto — desenvolvido c
 - [x] README com instruções, decisões técnicas e melhorias futuras
 - [x] Testes (fluxo de login — 7 casos)
 - [x] Segurança documentada (engenharia reversa + vazamento de dados)
-- [x] **Aplicação publicada** — [desafio-onda-finance.vercel.app](https://desafio-onda-finance.vercel.app/login)
+- [x] **Aplicação publicada** — [desafio-jobz-onda-finance.vercel.app](https://desafio-jobz-onda-finance.vercel.app/login)
 
 ---
 
